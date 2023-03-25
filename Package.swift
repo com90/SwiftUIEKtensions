@@ -7,7 +7,7 @@ let package = Package(
     name: "SwiftUIEKtensions",
     platforms: [
         .iOS(.v13),
-        .macOS(.v11)
+        .macOS(.v10_15)
     ],
     products: [
         // Products define the executables and libraries produced by a package, and make them visible to other packages.
